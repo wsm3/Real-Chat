@@ -1,0 +1,6 @@
+framework module Pods_RealChar {
+  umbrella header "Pods-RealChar-umbrella.h"
+
+  export *
+  module * { export * }
+}
